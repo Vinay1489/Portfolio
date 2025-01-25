@@ -2,7 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://github.com/Vinay1489/My-Portfolio/
+### Live Link: https://vinay1489.github.io/Portfolio/
 
 ## Features
 
